@@ -1,3 +1,5 @@
+![LeaderBalloons Logo](https://i.imgur.com/U20BGyR.png)
+
 # Leader-Balloons
 A full effective solution to extend spigot server managments functions.
 
